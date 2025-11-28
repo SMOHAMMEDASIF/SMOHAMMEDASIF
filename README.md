@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Sunkesula Mohammed Asif
 
-<!--
-**SMOHAMMEDASIF/SMOHAMMEDASIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Data Analyst | Power BI | SQL
 
-Here are some ideas to get you started:
+I am a passionate and hardworking **Data Analyst** skilled in transforming raw data into meaningful insights.  
+I enjoy building dashboards, solving business problems using data, and continuously improving my analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Expertise
+- Power BI
+- Excel
+- SQL
+- Python
+- DAX
+- Data Cleaning
+- Data Visualization
+
+---
+
+### 📂 Projects
+| Project Name | Tools Used | Description |
+|-------------|------------|-------------|
+| **Sales Analysis Dashboard** | Power BI | Analyzed sales data to identify trends, top-performing categories, customer segments, and revenue patterns. Visualized key KPIs using interactive dashboards. |
+
+---
+
+### 📬 Connect With Me
+- **📧 Email:** smohammedasif7861@gmail.com  
+- **🔗 LinkedIn:** linkedin.com/in/mohammedasif123
+
+---
+
+### 🌱 What I'm Working On
+- Learning **Advanced Power BI (DAX + Data Modeling)**
+- Improving SQL query performance & analytics
+- Exploring Python for data automation
+
+---
+
+### 💡 Fun Fact
+I believe **data tells stories — and I love discovering them** 📊
