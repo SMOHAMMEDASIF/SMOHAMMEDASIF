@@ -27,7 +27,8 @@ I enjoy building dashboards, solving business problems using data, and continuou
 
 ### 📬 Connect With Me
 - **📧 Email:** smohammedasif7861@gmail.com  
-- **🔗 LinkedIn:** linkedin.com/in/mohammedasif123
+- **🔗 LinkedIn:** 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedasif123/)
+
 
 ---
 
