@@ -1,6 +1,7 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Sunkesula Mohammed Asif</h1>
-<h3 align="center">Microsoft Certified Power BI Data Analyst | SQL | Excel | Python</h3>
+# 👋 Hi, I'm Sunkesula Mohammed Asif
+
+### 📌 Microsoft Certified Power BI Data Analyst | SQL | Excel | Python  
+I am a passionate and results-driven **Data Analyst** skilled in transforming raw data into meaningful insights. I enjoy building dashboards, solving business problems using data, and continuously improving my analytical skills.
 
 ---
 
@@ -11,56 +12,39 @@
 
 ---
 
-### 🏅 Certifications
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-  - Issued by: Microsoft  
-  - Earned on: November 22, 2025  
-  - Credential ID: 673E4C4D24B02067
-
----
-
 ### 🛠️ Skills & Expertise
-💡 Power BI • Excel • SQL • Python • DAX • Data Cleaning • Data Visualization
-
----
-
-### 📂 Projects
-| Project Name | Tools Used | Description |
-|-------------|------------|-------------|
-| **Sales Analysis Dashboard** | Power BI | Analyzed sales data to identify trends, top-performing categories, customer segments, and revenue patterns. Visualized KPIs using interactive dashboards. |
-
----
-
-### 📬 Connect With Me
 <p>
-📧 Email: **smohammedasif7861@gmail.com**  
-<br>
-🔗 LinkedIn: **https://www.linkedin.com/in/mohammedasif123/**
+  <img src="https://img.shields.io/badge/Power%20BI-FFCC00?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0078D7?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-34A853?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🌱 What I'm Working On
-- Advanced **DAX & Data Modeling**
-- Improving **SQL query optimization**
-- Exploring **Python for data automation**
+### 📂 Featured Projects
+
+#### **Sales Analysis Dashboard**  
+**Tools:** Power BI  
+**Description:** Analyzed sales data to identify trends, top-performing categories, customer segments, and revenue patterns. Created **interactive dashboards** to visualize key KPIs and support data-driven decisions.
+
+---
+
+### 📬 Connect With Me
+- **📧 Email:** smohammedasif7861@gmail.com  
+- **🔗 LinkedIn:** [linkedin.com/in/mohammedasif123](https://www.linkedin.com/in/mohammedasif123/)
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Power BI (DAX & Data Modeling)**  
+- **SQL query optimization & analytics**  
+- **Python automation** for data workflows
 
 ---
 
 ### 💡 Fun Fact
 I believe **data tells stories — and I love discovering them** 📊
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMOHAMMEDASIF&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMOHAMMEDASIF&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
-### 🚀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SMOHAMMEDASIF&label=Visitors&color=1E90FF&style=flat" />
-</p>
