@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunkesula Mohammed Asif
 
-### 📌 Microsoft Certified Power BI Data Analyst | SQL | Excel | Python  
+### 📌 Microsoft Certified Power BI Data Analyst | SQL | Excel | Python | Java Full Stack Developer 
 I am a passionate and results-driven **Data Analyst** skilled in transforming raw data into meaningful insights. I enjoy building dashboards, solving business problems using data, and continuously improving my analytical skills.
 
 ---
